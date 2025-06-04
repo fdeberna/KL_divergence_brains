@@ -1,6 +1,6 @@
 # Brains, Weighted Distributions, and KL-Divergence
 
-This notebook presents an analytical and numerical second-order approximation of the KL-divergence for weighted distributions. For a full discussion, [see my post on Medium.](https://medium.com/the-quantastic-journal/the-kullback-leibler-divergence-for-weighted-density-functions-f6672874d519)
+For a full discussion, [see my post on Medium.](https://medium.com/the-quantastic-journal/the-kullback-leibler-divergence-for-weighted-density-functions-f6672874d519)
 
 ## Motivation
 
